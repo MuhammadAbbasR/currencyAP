@@ -3,30 +3,53 @@
 A new Flutter project.
 
 FEATURES
+
 Real-time currency conversion with up-to-date exchange rates.
+
 Select currencies from a searchable dropdown with support for favorite currencies
+
 Conversion history with saved past conversions.
+
 User authentication with Firebase (Login, Logout, Forgot Password).
+
 Clean architecture using MVVM pattern.
+
 Dependency Injection with GetIt.
+
 State management using Provider.
+
 Responsive and user-friendly UI
+
 Dark-themed app bar and styled drawer navigation.
 
 ARCHITECTURE
+
 MVVM (Model-View-ViewModel) pattern for better code separation.
+
 Provider for state management.
+
 GetIt for dependency injection.
+
 Repository pattern for data handling.
+
 Clean separation of concerns and modular components.
+
 Packages Used
+
 provider
+
 get_it
+
 firebase_auth
+
 firebase_core
+
 flutter_dotenv
+
 dropdown_search
+
 http
+
 shared_preferences
 
 
