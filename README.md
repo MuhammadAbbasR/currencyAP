@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-FEATURES
+__FEATURES__
 
 Real-time currency conversion with up-to-date exchange rates.
 
@@ -22,7 +22,7 @@ Responsive and user-friendly UI
 
 Dark-themed app bar and styled drawer navigation.
 
-ARCHITECTURE
+__ARCHITECTURE__
 
 MVVM (Model-View-ViewModel) pattern for better code separation.
 
@@ -54,23 +54,18 @@ shared_preferences
 
 
 ![Alt text](https://github.com/MuhammadAbbasR/currencyAP/blob/afe839870e04a3b47168880432eb93ea947e1830/plmain.PNG)
-
 ![Alt text](
 https://github.com/MuhammadAbbasR/currencyAP/blob/afe839870e04a3b47168880432eb93ea947e1830/pl1.PNG
 )
 
 ![Alt text](https://github.com/MuhammadAbbasR/currencyAP/blob/afe839870e04a3b47168880432eb93ea947e1830/pl2.PNG)
-
 ![Alt text](https://github.com/MuhammadAbbasR/currencyAP/blob/afe839870e04a3b47168880432eb93ea947e1830/pl3.PNG)
 
 ![Alt text](https://github.com/MuhammadAbbasR/currencyAP/blob/afe839870e04a3b47168880432eb93ea947e1830/pl4.PNG)
-
 ![Alt text](https://github.com/MuhammadAbbasR/currencyAP/blob/afe839870e04a3b47168880432eb93ea947e1830/pl5.PNG)
 
 ![Alt text](https://github.com/MuhammadAbbasR/currencyAP/blob/afe839870e04a3b47168880432eb93ea947e1830/pl6.PNG)
-
 ![Alt text](https://github.com/MuhammadAbbasR/currencyAP/blob/afe839870e04a3b47168880432eb93ea947e1830/pl7.PNG)
-
 ![Alt text](https://github.com/MuhammadAbbasR/currencyAP/blob/afe839870e04a3b47168880432eb93ea947e1830/pl8.PNG)
 
 ![Alt text](https://github.com/MuhammadAbbasR/currencyAP/blob/afe839870e04a3b47168880432eb93ea947e1830/pl9.PNG)
